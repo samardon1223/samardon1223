@@ -20,7 +20,7 @@ A physics-driven racing framework featuring autonomous AI pathfinding and intera
 A tactical first-person shooter level layout focusing on strict spatial flow and dark ambient lighting mechanics.
 * **Tech Stack:** Unity 3D, C#, ProBuilder
 * **Key Features:** Grayboxed choke points, custom player visibility boundaries, and navigation guidance driven entirely via emissive materials.
-* [🔗 View Repository](https://github.com/samardon1223/bioluminescent-caves)
+* [🔗 Play Live on Itch.io](https://samardon1223.itch.io/ancient-myce) | [🔗 View Repository](https://github.com/samardon1223/bioluminescent-caves)
 
 ### 🕹️ Neon Arena (Multiplayer 2D Arcade Game)
 A fast-paced, real-time multiplayer browser game utilizing optimized canvas rendering and synchronized state handling.
