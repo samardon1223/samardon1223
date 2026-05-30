@@ -14,7 +14,7 @@ I am a Game Developer and Computer Applications student specializing in interact
 A physics-driven racing framework featuring autonomous AI pathfinding and interactive environments.
 * **Tech Stack:** Blueprints, C++, UE Spline Tools, Wind Simulation Materials
 * **Key Features:** Rigid multi-checkpoint lap validation logic, state-driven start/finish menus, and spline-tracked AI opponent lines.
-* [🔗 View Repository](https://github.com/samardon1223/stylized-racing-unreal) | *Build coming soon*
+* [🔗 Download & Play on Itch.io](https://samardon1223.itch.io/stylized-racing-unreal) | [🔗 View Repository](https://github.com/samardon1223/stylized-racing-unreal)
 
 ### 🌌 Bioluminescent Caves (Tactical FPS Environment)
 A tactical first-person shooter level layout focusing on strict spatial flow and dark ambient lighting mechanics.
