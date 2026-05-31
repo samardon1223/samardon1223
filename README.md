@@ -32,7 +32,6 @@ A fast-paced, real-time multiplayer browser game utilizing optimized canvas rend
 A modular mathematical system driving strategic rule balancing and archetype interactions for a tactical card game.
 * **Tech Stack:** Modular Systems, Design Logic Trees
 * **Key Features:** Interconnected logic trees governing Element, Transmutation, and Catalyst status interactions.
-* [🔗 View Logic Breakdown](https://github.com/samardon1223/alchemists-equation)
 
 ---
 
